@@ -5,7 +5,7 @@
 
   Python-based 6242 Snapchat Score Botter using pyautogui module.
 
-  ![image](https://media.discordapp.net/attachments/969561354241458186/969950165429518346/unknown.png?width=768&height=382)
+  ![image](https://github.com/sloww24/6242-Snapchat-Snapscore-Botter/blob/main/6242.png)
 
 
   
